@@ -1,0 +1,16 @@
+@import "tailwindcss";
+.active{
+    background: rgb(50, 59, 180);
+    color: wheat;
+}
+*{
+    scroll-behavior: smooth;
+}
+
+
+body {
+    font-family: "Inter", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 200;
+    font-style: normal;
+}
